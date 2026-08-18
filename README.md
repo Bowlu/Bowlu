@@ -8,5 +8,5 @@ Welcome to Bowlu's space
 - 🤔 I’m looking for help with web development
 - 💬 Ask me about Javascript, React, TypeScript, HTML and CSS
 - 📫 How to reach me: awoyemiboluwatife@gmail.com
-- 😄 Pronouns: Bowlu
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
